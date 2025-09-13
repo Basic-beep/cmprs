@@ -1,4 +1,14 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
-
+p {
+    text-align: center;
+}
+img-div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+h1 { 
+    text-align: center;
+}
